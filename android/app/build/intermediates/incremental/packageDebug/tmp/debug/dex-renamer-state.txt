@@ -1,13 +1,10 @@
-#Wed Mar 31 06:24:12 EAT 2021
-path.3=classes_1.dex
-path.2=classes_0.dex
-path.1=classes.dex
-path.0=classes.dex
-base.3=/home/chebio/Desktop/Apps/cashlet/android/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_1.dex
+#Wed Apr 07 05:21:42 EAT 2021
 base.2=/home/chebio/Desktop/Apps/cashlet/android/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_0.dex
+path.2=classes_0.dex
 base.1=/home/chebio/Desktop/Apps/cashlet/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+path.1=classes.dex
 base.0=/home/chebio/Desktop/Apps/cashlet/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
+path.0=classes.dex
